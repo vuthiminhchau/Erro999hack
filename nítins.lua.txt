@@ -57,3 +57,9 @@ AddButton(Tab1o, {
     Callback = function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ZaqueHub/BloxFruitPC/05507b61c0092197a3b6233ca305f2dfacd20050/KaitunZaque.lua'))()
   end
   })
+
+AddButton(Tab1o, {
+     Name = "erro999hack",
+    Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinMasEng"))()
+  end
+  })
